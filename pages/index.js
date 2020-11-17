@@ -1,5 +1,13 @@
 function Home(){
-    return <div>Home do nextjs</div>
+    return (
+    <div> 
+        <div> HOME PRINCIPAL NEXTJS</div>
+        <div> 
+            Teste finalizado.
+        </div>
+    </div>
+    
+    )
 }
 
 export default Home
