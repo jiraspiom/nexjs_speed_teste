@@ -52,7 +52,5 @@ function Ovo() {
 
   return (
     <div> testado</div>
-
   )
-
 }
